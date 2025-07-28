@@ -9,7 +9,7 @@
 
 ### 🧑‍🎓 About Me
 
-- 🎓 I’m currently studying **Computer Engineering** at ***Your College Name***
+- 🎓 I’m currently studying **Computer Engineering** at ***SVKM IOT Dhule***
 - 🌱 I’m learning **Data Structures & Algorithms**
 - 🔭 I’m looking to contribute to **Open Source Projects**
 - ⚡ Fun fact: I love clean UI, coding challenges, and learning new tools
@@ -19,11 +19,8 @@
 ### 📬 Connect with Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/your-linkedin" target="blank">
+  <a href="https://www.linkedin.com/in/gayatri-jangid-68b601293/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
-  </a>
-  <a href="mailto:your-email@gmail.com" target="blank">
-    <img align="center" src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" height="30" />
   </a>
 </p>
 
